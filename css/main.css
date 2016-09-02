@@ -10,6 +10,7 @@ main .row {
   height: 200px;
   text-align: center;
   padding-top: 30px;
+  margin-bottom: 20px;
 }
 
 .black {
